@@ -1,0 +1,46 @@
+1)Project Name=Employment management  with form validation.
+2)Analysis
+a)Requirement gathering.
+b)Technical analysis----
+-documentation
+-techniqual support-
+Languages & Tools required-os-windows 
+s/w VS code ,subline
+Third party library-bootstarp,jquery
+3)divide the project into the phases-
+a)phase-1 (UI design)
+1)create workspace (employee management).
+2) create index.html
+3) add starter template of jquery,bootstarp.
+4)verify or test the links
+5)Using Grid row & column 
+6)In first column add 4 field .
+7)design table header.
+8)add submit button.
+
+b)phase-2 functionality
+
+1)after  clicking on submit button render the data into table.
+2)console the form data
+3)Render data into table
+4)create empty array
+5)Push the object into array.
+6)Itteration of  array.
+7)Create html string.
+8)Inject into dom.
+9)click on delete button pop the data with popup window.
+10)Render the table.
+
+c)phase-3 Validation
+1)all fields are mandatory
+2)check duplicate emaiid
+3)apply encryption in password
+4) apply Email formate.
+
+d)Q/A.
+e)diploy on git 
+
+
+
+
+
